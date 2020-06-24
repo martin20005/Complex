@@ -1,0 +1,3 @@
+/home/ronaikovacs/Prog/PPM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ronaikovacs/Prog/PPM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ronaikovacs/Prog/PPM/cmake-build-debug/CMakeFiles/PPM.dir
